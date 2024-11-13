@@ -1,0 +1,13 @@
+{
+  "name": "craigslist-scraper",
+  "version": "1.0.0",
+  "description": "A scraper for Craigslist rental listings",
+  "main": "craigslist_scraper.js",
+  "scripts": {
+    "start": "node craigslist_scraper.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
